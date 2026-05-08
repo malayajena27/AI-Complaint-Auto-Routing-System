@@ -7,4 +7,9 @@ streamlit
 joblib
 openai-whisper
 xgboost
-opencv-python
+moviepy==1.0.3
+streamlit
+torch
+torchvision
+torchaudio
+opencv-python-headless
