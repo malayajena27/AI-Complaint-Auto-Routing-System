@@ -1,0 +1,101 @@
+complaint_text,priority,eta_days,department
+There is no electricity in my area since morning,High,1,Electricity
+Water pipeline leakage near market,Medium,3,Water
+Transformer exploded due to rain,High,2,Electricity
+Low water supply from yesterday,Low,5,Water
+Sewer overflow near Industrial Area Phase 1,High,2,Sanitation
+No water supply in Sector 5,Medium,3,Water
+Severe waterlogging in Residential Block A,Low,6,Roads
+Public toilet extremely dirty at New Extension,Medium,4,Sanitation
+Pest infestation near garbage dump in Sector 2,Medium,4,Sanitation
+No power in Old Town,Medium,2,Electricity
+Major pipe leakage near North Avenue,Medium,2,Water
+Streetlight broken near Sector 1,High,1,Electricity
+Deep pothole causing traffic on Central Park,Medium,3,Roads
+Dead animal on road in Downtown,Medium,4,Sanitation
+Dead animal on road in Hospital Road,Medium,2,Sanitation
+Road caved in near Downtown,High,1,Roads
+Transformer issue reported in City Square,High,2,Electricity
+Low water pressure in University Campus,Medium,2,Water
+Sewer water mixing with drinking water in Central Park,High,1,Water
+Broken pavement in Hospital Road,Low,6,Roads
+No power in Old Town,High,1,Electricity
+Deep pothole causing traffic on Block B,Medium,3,Roads
+Pest infestation near garbage dump in Old Town,Low,7,Sanitation
+Sewer water mixing with drinking water in Sector 5,High,2,Water
+Pest infestation near garbage dump in Highway 1,Low,5,Sanitation
+Frequent power cuts in Downtown,Low,5,Electricity
+Muddy/Dirty water reported at West End,High,1,Water
+Broken manhole cover at North Avenue,Medium,4,Sanitation
+Fallen tree blocking University Campus,High,1,Roads
+Pest infestation near garbage dump in Station Road,Medium,4,Sanitation
+Muddy/Dirty water reported at Community Center,Medium,2,Water
+Transformer issue reported in East Block,High,1,Electricity
+Dead animal on road in Central Park,Low,4,Sanitation
+Major pipe leakage near Residential Block A,Medium,3,Water
+Fallen tree blocking Sector 5,High,1,Roads
+Major pipe leakage near University Campus,Medium,3,Water
+Sparking electric pole at Residential Block A,High,1,Electricity
+Muddy/Dirty water reported at Main Market,Medium,2,Water
+No power in Main Market,Medium,3,Electricity
+No power in South Street,Medium,2,Electricity
+Streetlight broken near Block B,High,1,Electricity
+Fallen tree blocking Station Road,High,2,Roads
+Deep pothole causing traffic on Central Park,Medium,3,Roads
+Broken manhole cover at City Square,Medium,4,Sanitation
+Muddy/Dirty water reported at Central Park,Medium,2,Water
+Sewer overflow near Downtown,High,1,Sanitation
+Fallen tree blocking Community Center,High,2,Roads
+Deep pothole causing traffic on Sector 5,Medium,3,Roads
+Public toilet extremely dirty at Central Park,Medium,3,Sanitation
+Road caved in near University Campus,High,1,Roads
+Road caved in near Sector 2,High,2,Roads
+Transformer issue reported in Downtown,High,1,Electricity
+Sparking electric pole at East Block,High,1,Electricity
+Severe voltage fluctuation at Sector 2,Medium,3,Electricity
+Low water pressure in North Avenue,Low,7,Water
+Broken manhole cover at Block B,Medium,2,Sanitation
+Severe waterlogging in IT Park,Low,6,Roads
+Fallen tree blocking Sector 9,High,2,Roads
+Sparking electric pole at Sector 1,High,1,Electricity
+Severe waterlogging in East Block,Medium,4,Roads
+Transformer issue reported in Industrial Area Phase 1,High,2,Electricity
+Sewer overflow near Downtown,High,1,Sanitation
+Streetlight broken near North Avenue,Medium,2,Electricity
+Traffic light completely broken at Community Center,High,2,Roads
+Muddy/Dirty water reported at West End,High,2,Water
+Frequent power cuts in Old Town,Medium,3,Electricity
+Water meter broken at City Square,High,2,Water
+Fallen tree blocking New Extension,High,2,Roads
+Dead animal on road in Hospital Road,Low,7,Sanitation
+Fallen tree blocking East Block,High,1,Roads
+Garbage uncollected for days in West End,Medium,3,Sanitation
+Public toilet extremely dirty at University Campus,Low,4,Sanitation
+Fallen tree blocking Sector 5,High,2,Roads
+Transformer issue reported in Hospital Road,High,2,Electricity
+Broken pavement in North Avenue,Low,7,Roads
+Deep pothole causing traffic on Block B,Medium,2,Roads
+Water meter broken at Sector 1,High,2,Water
+Dead animal on road in Sector 5,Medium,4,Sanitation
+Muddy/Dirty water reported at Highway 1,Medium,2,Water
+Frequent power cuts in Central Park,Medium,2,Electricity
+Broken pavement in South Street,Medium,2,Roads
+Dead animal on road in Sector 2,Low,7,Sanitation
+Transformer issue reported in Residential Block A,High,2,Electricity
+Sewer water mixing with drinking water in Community Center,High,2,Water
+Muddy/Dirty water reported at Industrial Area Phase 1,High,2,Water
+Transformer issue reported in Hospital Road,High,1,Electricity
+Garbage uncollected for days in IT Park,Low,7,Sanitation
+Major pipe leakage near Old Town,High,2,Water
+Broken manhole cover at University Campus,Low,4,Sanitation
+Fallen tree blocking Airport Road,High,1,Roads
+No water supply in New Extension,Medium,2,Water
+Transformer issue reported in Sector 5,High,2,Electricity
+No power in Sector 2,Medium,3,Electricity
+Muddy/Dirty water reported at University Campus,Medium,2,Water
+Garbage uncollected for days in Hospital Road,Medium,2,Sanitation
+Fallen tree blocking IT Park,High,2,Roads
+Traffic light completely broken at Industrial Area Phase 1,High,2,Roads
+Low water pressure in Sector 2,Medium,4,Water
+Frequent power cuts in New Extension,Medium,3,Electricity
+Traffic light completely broken at Residential Block A,High,1,Roads

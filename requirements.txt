@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+streamlit
+joblib
+openai-whisper
+xgboost
+opencv-python
