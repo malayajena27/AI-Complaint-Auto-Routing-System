@@ -1,32 +1,56 @@
 import whisper
+import subprocess
 import os
-from moviepy.editor import VideoFileClip
 
-# Load whisper model
 model = whisper.load_model("base")
 
 
 def convert_audio_to_text(audio_path):
 
-    result = model.transcribe(audio_path)
+    try:
 
-    return result["text"]
+        result = model.transcribe(audio_path)
+
+        return result["text"]
+
+    except Exception as e:
+
+        return f"Audio transcription error: {str(e)}"
 
 
 def convert_video_to_text(video_path):
 
     audio_output = "uploads/temp_audio.wav"
 
-    # Extract audio from video
-    video = VideoFileClip(video_path)
+    try:
 
-    video.audio.write_audiofile(audio_output)
+        command = [
+            "ffmpeg",
+            "-i",
+            video_path,
+            "-vn",
+            "-acodec",
+            "pcm_s16le",
+            "-ar",
+            "44100",
+            "-ac",
+            "2",
+            audio_output,
+            "-y"
+        ]
 
-    # Convert extracted audio to text
-    result = model.transcribe(audio_output)
+        subprocess.run(
+            command,
+            check=True
+        )
 
-    # Delete temporary audio file
-    if os.path.exists(audio_output):
-        os.remove(audio_output)
+        result = model.transcribe(audio_output)
 
-    return result["text"]
+        if os.path.exists(audio_output):
+            os.remove(audio_output)
+
+        return result["text"]
+
+    except Exception as e:
+
+        return f"Video transcription error: {str(e)}"
